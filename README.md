@@ -12,11 +12,13 @@
 [![GitHub AGarcia-Clarity](https://img.shields.io/github/followers/AGarcia-Clarity?label=follow-AGarcia-Clarity&style=social)](https://github.com/AGarcia-Clarity)<br/>
 [![GitHub asg5704](https://img.shields.io/github/followers/asg5704?label=follow-asg5704&style=social)](https://github.com/asg5704)
 
-### OSS (
-Personal GitHub 👇 
+### OSS
+> Personal GitHub 👇 <br />
+
 [![asg5704 GitHub stats](https://github-readme-stats.vercel.app/api?username=asg5704&show_icons=true&theme=vue&count_private=true)](https://github.com/asg5704/github-readme-stats)
 
-Work GitHub 👇 
+> Work GitHub 👇 <br />
+
 [![Work GitHub stats](https://github-readme-stats.vercel.app/api?username=AGarcia-Clarity&show_icons=true&theme=vue&count_private=true)](https://github.com/AGarcia-Clarity/github-readme-stats)
 
 
